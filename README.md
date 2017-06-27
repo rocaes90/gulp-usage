@@ -3,7 +3,7 @@
 ```
 This files are an example about a correct way to implement gulp into a project
 ```
-## WHAT TECHNOLOGIES ARE using
+## WHAT TECHNOLOGIES ARE USING
 ```
 gulp
 ```
